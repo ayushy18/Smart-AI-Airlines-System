@@ -1,0 +1,22 @@
+```txt id="1xw6m3"
+# Smart AI Airlines System
+
+# Programming Language
+Python 3.x
+
+# GUI Framework
+Tkinter
+
+# Database
+MySQL
+
+# Python Libraries / Modules
+pymysql>=1.1.0
+fpdf>=1.7.2
+qrcode>=7.4.2
+pillow>=10.0.0
+
+# Built-in Python Modules
+tkinter
+re
+```
