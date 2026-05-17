@@ -118,6 +118,11 @@ python AirlinesManagementSytem.py
 ## Project Screenshots
 <img width="736" height="857" alt="image" src="https://github.com/user-attachments/assets/a659f91a-7518-4421-92d3-a77bc996629e" />
 
+<img width="661" height="795" alt="image" src="https://github.com/user-attachments/assets/5a791cb8-3e85-4349-9d05-ea516a8bf2b1" />
+
+<img width="608" height="827" alt="image" src="https://github.com/user-attachments/assets/61e3f398-cfd5-4f86-8ca6-5c5c5fbdb151" />
+
+<img width="389" height="500" alt="image" src="https://github.com/user-attachments/assets/b2ad0734-4640-4421-b9cc-a8751e814b54" />
 
 ---
 
