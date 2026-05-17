@@ -1,6 +1,3 @@
-```txt id="1xw6m3"
-# Smart AI Airlines System
-
 # Programming Language
 Python 3.x
 
